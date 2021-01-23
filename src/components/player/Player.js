@@ -1,4 +1,4 @@
-import './Player.scss';
+import './Player.css';
 
 function Player() {
   return (

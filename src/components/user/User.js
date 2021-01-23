@@ -1,4 +1,4 @@
-import './User.scss';
+import './User.css';
 
 function User() {
   return (

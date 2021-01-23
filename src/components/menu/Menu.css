@@ -1,0 +1,13 @@
+.Menu {
+    background-color: #242423;
+    width: 45vh;
+    height: 100vh;
+}
+
+.menu-items{
+    height: 68vh;
+}
+
+.Player {
+    width: 45vh;
+}

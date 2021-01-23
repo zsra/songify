@@ -1,6 +1,6 @@
 import Player from '../player/Player';
 import User from '../user/User';
-import './Menu.scss';
+import './Menu.css';
 
 function Menu() {
   return (

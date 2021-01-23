@@ -1,0 +1,11 @@
+.Nav {
+    width: 100%;
+    height: 8vh;
+    position: fixed;
+}
+
+.Nav > input {
+    margin : 1vh 35%;
+    width: 100vh;
+    float: right;
+}
